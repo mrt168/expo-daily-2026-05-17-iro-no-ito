@@ -1,0 +1,35 @@
+{
+  "title": "色の糸 - iro-no-ito",
+  "scenes": [
+    {
+      "image": "01-home.png",
+      "narration": "色の糸。1日1色で、気分を糸として織る、ミニマル日記です。",
+      "duration": 6
+    },
+    {
+      "image": "01-home.png",
+      "narration": "書く言葉はゼロ。12の和の伝統色から、今の気分を1タップ。",
+      "duration": 6
+    },
+    {
+      "image": "02-calendar.png",
+      "narration": "1ヶ月分の糸が、こんなに美しい織物のカレンダーに。",
+      "duration": 6
+    },
+    {
+      "image": "03-review.png",
+      "narration": "週次レビューでは、よく選ばれた色のトップスリーが分かります。",
+      "duration": 6
+    },
+    {
+      "image": "04-palette.png",
+      "narration": "色には、自分だけの名前をつけられます。あなたの感情の言葉で。",
+      "duration": 6
+    },
+    {
+      "image": "05-settings.png",
+      "narration": "三日坊主にならない、続く日記。今日から、色の糸で織りはじめませんか。",
+      "duration": 6
+    }
+  ]
+}
